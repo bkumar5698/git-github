@@ -1,0 +1,13 @@
+What is git ----> done 
+What are branches ---->done
+Compare git with svn 
+How to create branches  ----->done
+How to clone
+How to merge ---->done
+How to resolve conflicts
+How to do rebase ----done
+Merge vs rebase ----done
+Git log ---done
+Git commit ---done
+Git push ---done
+Git pul ---done 
